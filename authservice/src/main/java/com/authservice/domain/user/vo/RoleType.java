@@ -16,6 +16,7 @@ public enum RoleType {
     }
 
     public boolean covers(RoleType other){
-        return this.level >= this.level;
+        return this.level >= other.level;
     }
 }
+
