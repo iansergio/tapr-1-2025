@@ -4,7 +4,7 @@ O modelo tático é o nível mais próximo do código. Enquanto o **modelo estra
 
 ---
 
-## 📌 O que ele entrega
+## O que ele entrega
 1. Modelagem clara de **Entidades**, **Agregados** e **Objetos de Valor (VO)**  
 2. Organização do código de domínio 
 3. Isolamento de regras de negócio
@@ -12,7 +12,7 @@ O modelo tático é o nível mais próximo do código. Enquanto o **modelo estra
 
 ---
 
-## ⚙️ Blocos do Modelo Tático
+## Blocos do Modelo Tático
 
 ### 🌱 Agregados
 - São **raízes lógicas de consistência**.  
